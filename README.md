@@ -4,4 +4,4 @@ This project is a recreation of the classic game Tic-Tac-Toe. This game includes
 
 Language Framework: Java
 
-![GitHub Image](/images/Photo Of Game.png)
+<img width="1199" alt="Photo Of Game" src="https://github.com/user-attachments/assets/edc65fe8-2ee8-4d1a-bfb5-20100f6cace1">
